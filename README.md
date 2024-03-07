@@ -27,7 +27,7 @@ I'm **Samuel**, a passionate **Full Stack Developer** with expertise in creating
 
 - 🔭 I’m currently enhancing the defense sector with a modular '**Employee Portal**' from scratch at **GRUPO JPG SA**, with cutting-edge technologies like **React** with **Typescript** and **NodeJS** with **Express** for the API.
 - 🌱 I’m currently learning **Tailwind CSS** to improve my skills in modern, utility-first CSS frameworks.
-- 👯 I’m looking to collaborate on **innovative projects** that require deep understanding and integration of business requirements with robust tech solutions.
-- 🤔 I’m looking for opportunities to **grow professionally** in environments that challenge the status quo of tech and innovation.
+- 👯 I’m looking foward to collaborate on **innovative projects** that require deep understanding and integration of business.
+- 🤔 I’m looking for opportunities to **grow professionally** in environments that challenge the 'status quo' of technology.
 
 - 📫 How to reach me: **[Linkedin profile](https://www.linkedin.com/in/samuel-izquierdo-olmo-07859a264/)** | **samuelizquierdoolmo@gmail.com**
